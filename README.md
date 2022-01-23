@@ -1,8 +1,10 @@
- WINKEKATZE Logo
-==================
+ WINKEKATZE Artwork
+====================
 
-Winkekatze TV Logo as Vektorgraphic
+Winkekatze TV Vektorgraphic Artwork
 
-![winkekatze.svg](winkekatze.svg)
+[![winkekatze.svg](winkekatze.svg)](https://winkekatze.tv)
 
-Winkekatze Video Operation Center. In Kooperation with C3WOC, CHVOC, CHaos-West TV, C3VOC and many more...
+Winkekatze Video Operation Center.
+We like streaming, recording and event engeneering.
+Allone or in Kooperation with [C3WOC](https://c3woc.de), CHVOC, [Chaos West TV](https://chaoswest.tv), [C3VOC](https://c3voc.de) and many more...
